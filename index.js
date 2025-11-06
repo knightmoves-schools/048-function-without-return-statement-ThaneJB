@@ -1,3 +1,3 @@
-function logUser($,{username}) {
-    console.log($,{username})
+function logUser(username) {
+    console.log(username);
 };
